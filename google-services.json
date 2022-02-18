@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341640195054",
+    "project_id": "proskillapp",
+    "storage_bucket": "proskillapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341640195054:android:5afabcb3a4c15c1392bcff",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341640195054-18jemcd5dsu5bejkik1lvrvu2s9ub669.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCVCGR4DtPVx0Go5YRhV2BC7uIPzkllk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341640195054-18jemcd5dsu5bejkik1lvrvu2s9ub669.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
