@@ -32,7 +32,7 @@ npm run android
 * Lacking of users for using app.
 
 ## What next?
-* AI Feature: Deploy AI model to the server.
-* Software: increase UI for easier look.
+* AI Feature: deploy AI model to the server.
+* Software Feature: increase UI for easier look.
 * Database: rearrange the structure of NoSQL database to optimize accessing data.
 
