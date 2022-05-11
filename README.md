@@ -14,9 +14,13 @@ The problem can be described as:
 * After two users matching together, user can send message to matched user.
 
 ## Installation
-#### For React Native application:
+#### Install Expo CLI:
 ```bash
 npm install --global expo-cli
+```
+#### For React Native application:
+```bash
+npm run android
 ```
 ## App Application
 <a href="https://ibb.co/cvysdbm"><img src="https://i.ibb.co/n0wKS3W/Before-Login.png" alt="Before-Login" border="0" width="250"></a>
