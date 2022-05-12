@@ -31,10 +31,11 @@ npm run android
 
 ## Challenges
 * App is not optimize.
+* Apply AI feature to the app.
 * Lacking of users for using app.
 
 ## What next?
-* AI Feature: deploy AI model to the server.
+* AI Feature: deploy AI model to the server and apply it to the app.
 * Software Feature: increase UI for easier look.
 * Database: rearrange the structure of NoSQL database to optimize accessing data.
 
