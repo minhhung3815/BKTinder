@@ -3,7 +3,7 @@ An dating application for Bach Khoa students
 
 ## Summary
 The project contains 3 major modules:
-* **AI Module**: Using **scikit learn** to recommend suitable users base on user hobbies.
+* **AI Module**: Using **scikit learn** library to recommend suitable users base on user hobbies.
 * **Software Module**: A **React Native** application which contains some features such as authentication (Login/SignUp), managing user profiles, matching algorithm, sending messages.
 * **Database Module**: Using **Firebase** for simple storage.
 
